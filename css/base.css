@@ -23,6 +23,13 @@
     align-items: center;
 }
 
+.center-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 /*General style*/
 html {
     background-color: var(--background-color);
